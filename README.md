@@ -38,6 +38,8 @@
 <div align="left">
   <img src="https://github.com/tandpfun/skill-icons/blob/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/React-Dark.svg" height="40" alt="React JS logo" />
   <img width="12" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/NextJS-Dark.svg" height="40" alt="Next JS logo" />
+  <img width="12" />
   <img src="https://github.com/tandpfun/skill-icons/blob/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/HTML.svg" height="40" alt="HTML logo"  />
   <img width="12" />
  <img src="https://github.com/tandpfun/skill-icons/blob/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/CSS.svg" height="40" alt="CSS logo" />
